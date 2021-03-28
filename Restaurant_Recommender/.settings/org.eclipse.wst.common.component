@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Restaurant_Recommender">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="Restaurant_Recommender"/>
+        <property name="java-output-path" value="/Restaurant_Recommender/build/classes"/>
+    </wb-module>
+</project-modules>
